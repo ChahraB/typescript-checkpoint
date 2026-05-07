@@ -1,4 +1,4 @@
-"use strict";
+
 class Voiture {
     make;
     model;
